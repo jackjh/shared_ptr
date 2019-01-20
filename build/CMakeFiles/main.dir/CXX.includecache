@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jack/RD/code/git_push/shared_ptr/main.cc
+shared_ptr.h
+/home/jack/RD/code/git_push/shared_ptr/shared_ptr.h
+
+/home/jack/RD/code/git_push/shared_ptr/shared_ptr.h
+iostream
+-
+
